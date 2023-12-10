@@ -21,7 +21,7 @@ It is a Multi-Class Classification Problem.
 
 ## Installation & Setup
 
-### Codes and Resources Used
+### Resources Used
 
 - Editor/IDE: Jupyter Notebook.
 - Environment/Backend: Conda
